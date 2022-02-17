@@ -51,10 +51,9 @@ a.navbar-item.is-active {
         background-position: center;
         background-repeat: no-repeat;
         background-attachment: fixed;
-        -webkit-background-size: cover;
-        -moz-background-size: cover;
-        -o-background-size: cover;
         background-size: cover;
+        width: 100vw;
+        height: 100vh;
 
         top: 0px;
         right: 0px;
