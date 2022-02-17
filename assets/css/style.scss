@@ -50,11 +50,8 @@ a.navbar-item.is-active {
         background-image: url({{site.heroimage}});
         background-position: center;
         background-repeat: no-repeat;
+        background-size: contain;
         background-attachment: fixed;
-        background-size: cover;
-        width: 10vw;
-        height: 10vh;
-
         top: 0px;
         right: 0px;
         bottom: 0px;
