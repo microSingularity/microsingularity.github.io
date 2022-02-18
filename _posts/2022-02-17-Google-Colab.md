@@ -26,7 +26,7 @@ In the second Google Colab tutorial that I published, I demonstrated how to rend
 
 
 ## Video 1
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ORNOfTkOIOk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/ORNOfTkOIOk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ## Video 2
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7shFI7rYVYU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ## Video 3
