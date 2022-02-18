@@ -37,19 +37,30 @@ In this tutorial I demonstrated how to install third party addons in Blender run
 
 ## How to Bake Fluids on Google Colab
 
-In this tutorial I demonstrated how to install third party addons in Blender running on Google Colab. This enabled people to render there Blender Scenes even if it required addons. 
+In this tutorial I demonstrated how to either render fluids that have been baked on another PC by transferring the cache to Google Colab or bake the fluids directly on the cloud. Although, as I discuss in the tutorial, I don't reccomend baking fluids on Google Colab as it currently only uses a single CPU and as usually slower than just baking it locally.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/U65EgmstOWA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Fixing Google Colab CUDA Errors
 
-
-## Video 1
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ORNOfTkOIOk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-## Video 2
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7shFI7rYVYU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-## Video 3
+After publishing the earlier tutorials, Google seemed to have made some changes to the default environment on Google Colab which runs the python scripts. As a result Blender was no longer able to use the GPU provided by Google. This tutorial explains how to fix the issue. 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/hMCE6-ddTdY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-## Video 4
+
+## Rendering your Blender Scenes when you Sleep
+
+In this quick tutorial, I show you how to stop your Google Colab session from closing if you don't interact with the console for a short period of time. This enables you to run your Blender renders for extended periods of time without constantly checking your PC.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7shFI7rYVYU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+## Rendering your Blender Scenes on Kaggle
+
+Although this tutorial on how to Render your Blender scenes was extreemely popular due to the higher specifications of Kaggles free GPUs, Kaggle appears to have blocked Blender from being installed on their platform. I decided to remove the tutorial from my channel as a result, but it is still available here in-case it is still useful to someone. 
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ORNOfTkOIOk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
 
 
 
