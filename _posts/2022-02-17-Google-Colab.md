@@ -10,9 +10,19 @@ tags:
 - render
 ---
 
-# Google Colab and Blender Youtube Tutorial Summary
+Since starting my Youtube channel, a little over a year ago, I've published a lot of tutorials on the topic of speeding up Blender renders with Google Colab. It can be a bit confusing which tutorial covers what subject so I'm going to give a quick summary of each tutorial here.
 
-This is a summary of all my youtube tutorials on Blender and Google Colab
+## First Colab Tutoral - Origins
+
+In my first Google Colab tutorial, I demonstrated how to render your blender scenes on the cloud using a simpple python script. Since making this tutorial, I found a way to do the same task but without the python script. However, this tutorial is still worth watching if you have made your Blender scene using an AMD graphics card on your local PC. Some people have commented that the python script is still necessary in this case.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/lEW7efy_aiY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Rendering Animations on Google Colab
+
+In the second Google Colab tutorial that I published, I demonstrated how to render animations on the cloud and without the need for an additional python script (for NVidia GPU users). 
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/eOxawEi5cNk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Video 1
@@ -27,8 +37,6 @@ This is a summary of all my youtube tutorials on Blender and Google Colab
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/U65EgmstOWA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ## Video 6
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/A8FiCPUEv9Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-## Video 7
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/eOxawEi5cNk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-## Video 8
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/lEW7efy_aiY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
