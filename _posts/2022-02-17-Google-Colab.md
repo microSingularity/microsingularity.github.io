@@ -50,15 +50,14 @@ After publishing the earlier tutorials, Google seemed to have made some changes 
 
 In this quick tutorial, I show you how to stop your Google Colab session from closing if you don't interact with the console for a short period of time. This enables you to run your Blender renders for extended periods of time without constantly checking your PC.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7shFI7rYVYU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ORNOfTkOIOk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Rendering your Blender Scenes on Kaggle
 
 Although this tutorial on how to Render your Blender scenes was extreemely popular due to the higher specifications of Kaggles free GPUs, Kaggle appears to have blocked Blender from being installed on their platform. I decided to remove the tutorial from my channel as a result, but it is still available here in-case it is still useful to someone. 
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ORNOfTkOIOk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7shFI7rYVYU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
