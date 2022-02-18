@@ -38,7 +38,7 @@ In this tutorial I demonstrated how to install third party addons in Blender run
 
 
 ## Video 1
-<iframe src="https://www.youtube-nocookie.com/embed/ORNOfTkOIOk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ORNOfTkOIOk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ## Video 2
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7shFI7rYVYU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ## Video 3
