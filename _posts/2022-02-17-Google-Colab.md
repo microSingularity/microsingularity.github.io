@@ -24,6 +24,18 @@ In the second Google Colab tutorial that I published, I demonstrated how to rend
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/eOxawEi5cNk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Blender - Cycles X
+
+This is still probably the most relevant of the tutorials since it shows you how to download and install Blender 3.0 with Cycles-X and render your Blender scenes on the cloud. It also includes a helpful FAQ chapter on some of the most common issues running Blender on Google Colab.
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/A8FiCPUEv9Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## How to Install Blender Addons on Google Colab
+
+In this tutorial I demonstrated how to install third party addons in Blender running on Google Colab. This enabled people to render there Blender Scenes even if it required addons. 
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/U65EgmstOWA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 ## Video 1
 <iframe src="https://www.youtube-nocookie.com/embed/ORNOfTkOIOk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -33,10 +45,7 @@ In the second Google Colab tutorial that I published, I demonstrated how to rend
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/hMCE6-ddTdY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ## Video 4
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/sZus3-Mkxg0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-## Video 5
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/U65EgmstOWA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-## Video 6
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/A8FiCPUEv9Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 
