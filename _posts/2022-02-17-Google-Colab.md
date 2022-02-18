@@ -33,6 +33,12 @@ This is still probably the most relevant of the tutorials since it shows you how
 
 In this tutorial I demonstrated how to install third party addons in Blender running on Google Colab. This enabled people to render there Blender Scenes even if it required addons. 
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/sZus3-Mkxg0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## How to Bake Fluids on Google Colab
+
+In this tutorial I demonstrated how to install third party addons in Blender running on Google Colab. This enabled people to render there Blender Scenes even if it required addons. 
+
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/U65EgmstOWA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
@@ -44,7 +50,7 @@ In this tutorial I demonstrated how to install third party addons in Blender run
 ## Video 3
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/hMCE6-ddTdY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ## Video 4
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/sZus3-Mkxg0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 
