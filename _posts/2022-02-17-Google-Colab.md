@@ -8,11 +8,12 @@ tags:
 - colab
 - blender
 - render
+- cloud
 ---
 
 Since starting my Youtube channel, a little over a year ago, I've published a lot of tutorials on the topic of speeding up Blender renders with Google Colab. It can be a bit confusing which tutorial covers what subject so I'm going to give a quick summary of each tutorial here.
 
-## First Colab Tutoral - Origins
+## First Colab Tutorial - Origins
 
 In my first Google Colab tutorial, I demonstrated how to render your blender scenes on the cloud using a simpple python script. Since making this tutorial, I found a way to do the same task but without the python script. However, this tutorial is still worth watching if you have made your Blender scene using an AMD graphics card on your local PC. Some people have commented that the python script is still necessary in this case.
 
@@ -58,10 +59,3 @@ In this quick tutorial, I show you how to stop your Google Colab session from cl
 Although this tutorial on how to Render your Blender scenes was extreemely popular due to the higher specifications of Kaggles free GPUs, Kaggle appears to have blocked Blender from being installed on their platform. I decided to remove the tutorial from my channel as a result, but it is still available here in-case it is still useful to someone. 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7shFI7rYVYU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
-
-
-
-
