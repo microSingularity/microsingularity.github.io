@@ -41,12 +41,12 @@ google-analytics: G-5KHBFDBHP9
 disqus-shortname: #thedevslot
 
 # Name of the Author
-author-name: Michael
+author-name: microSingularity
 # URL for the Image of the Author
-author-image: /assets/images/about.jpeg
+author-image: /assets/images/Logo.png
 
 # 60 Words About the Author
-author-about: Hello and welcome to the official website of the microSingularity Youtube Channel. Be sure to checkout the articles page which suppliments the Youtube tutorials. 
+author-about: Welcome to the official website of the microSingularity Youtube Channel, a place for Blender, Art & Computer Science 
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: #https://github.com/microSingularity
 
