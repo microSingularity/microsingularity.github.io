@@ -1,5 +1,5 @@
 ---
-title: Google Colab and Blender Youtube Tutorials
+title: Blender and Google Colab
 layout: post
 post-image: "/assets/images/GoogleBlenderPost.png"
 description: A summary of my Google Colab and Blender Tutorials
