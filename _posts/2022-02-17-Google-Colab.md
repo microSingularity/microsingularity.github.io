@@ -1,7 +1,7 @@
 ---
 title: Google Colab and Blender Youtube Tutorials
 layout: post
-post-image: "https://raw.githubusercontent.com/thedevslot/WhatATheme/master/assets/images/SamplePost.png?token=AHMQUEPC4IFADOF5VG4QVN26Z64GG"
+post-image: "/assets/images/GoogleBlenderPost.png"
 description: A summary of my Google Colab and Blender Tutorials
 tags:
 - google
