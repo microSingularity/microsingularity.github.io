@@ -5,6 +5,7 @@ layout: page
 
 
 
-* [Blender Market](https://blendermarket.com/creators/microsingularity)
-* [Sketchfab](https://sketchfab.com/micro_Singularity)
+### [Blender Market](https://blendermarket.com/creators/microsingularity)
+### [Sketchfab](https://sketchfab.com/micro_Singularity)
+
 
