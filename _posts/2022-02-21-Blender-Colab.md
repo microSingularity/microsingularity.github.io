@@ -57,12 +57,12 @@ For example, change ```blender-2.93.5-linux-x64.tar.xz``` to ```blender-3.00.0-l
 
 This line of code copies blender from Google Colab to Google Drive so that it can be used again next time without downloading again. This only needs to be done once
 ```
-cp /content/blender-2.93.5-linux-x64.tar.xz /content/drive/MyDrive/Blender/blender-2.93.5-linux-x64.tar.xz
+!cp /content/blender-2.93.5-linux-x64.tar.xz /content/drive/MyDrive/Blender/blender-2.93.5-linux-x64.tar.xz
 ```
 
 This line of code copies the Blender zip file back from Google Drive to Google Colab.
 ```
-cp /content/drive/MyDrive/Blender/blender-2.93.5-linux-x64.tar.xz /content/blender-2.93.5-linux-x64.tar.xz
+!cp /content/drive/MyDrive/Blender/blender-2.93.5-linux-x64.tar.xz /content/blender-2.93.5-linux-x64.tar.xz
 ```
 
 ### Unzip Blender
