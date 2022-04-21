@@ -7,7 +7,6 @@ source "http://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-bundle add webrick
 gem "jekyll"
 gem "rack"
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
