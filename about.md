@@ -1,21 +1,17 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Links to my Other Pages
+permalink: /Links/
 ---
 
-Swiss is a bold Jekyll theme inspired by Swiss design and the works of Massimo Vignelli. This theme lends itself well to sites heavy on written content.
+### [Buy Me a Coffee](https://www.buymeacoffee.com/msingularity)
+### [YouTube](http://www.youtube.com/channel/UC8gJDuYMiTWKyhcEXK-oRIw)
+### [Twitter](https://twitter.com/mu_singularity)
+### [Blender Market](https://blendermarket.com/creators/microsingularity)
+### [Sketchfab](https://sketchfab.com/micro_Singularity)
+### [My Scientific Work](https://orcid.org/my-orcid?orcid=0000-0002-3862-2644)
 
-### Features:
-* Mobile-first design ensures this theme performs fastest on mobile while scaling elegantly to desktop-size screens.
-* Designed for blogs and sites heavy on written content, with bold typography styles, homepage summaries, and previous/next snippets.
-* Supports a wide range of HTML elements and markdown.
-* Flexible styles that can be reused for customization without adding additional CSS.
-* Simple styling for code snippets (if you want something with syntax highlighting, checkout ....)
-* Dynamically generated navigation links. See docs below for adding pages with specific post category for-loops.
 
-## Themes
 
-## Browser Support
 
-## Installation
+
