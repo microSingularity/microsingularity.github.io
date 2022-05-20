@@ -1,8 +1,8 @@
 ---
-title: How to Run Blender on Google Colab with a Free GPU
+title: Blender Tips and Tricks
 layout: post
 post-image: "/assets/images/GoogleBlenderPost.png"
-description: A set of instructions for running your Blender scenes on Google Colab with a free GPU
+description: Some useful Blender tips and tricks I have picked up over the years
 tags:
 - blender
 - render
