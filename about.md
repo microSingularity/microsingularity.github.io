@@ -4,7 +4,7 @@ title: Links
 permalink: /Links/
 ---
 
-### Support Me
+# Support Me
 ## [Buy Me a Coffee](https://www.buymeacoffee.com/msingularity)
 
 # Youtube Channel
