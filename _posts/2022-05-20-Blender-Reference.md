@@ -14,9 +14,4 @@ This is a list of Blender tips and tricks that I have picked up over the years. 
 
 ### Change the Origin Point of an Object without moving the 3D cursor
 
-To enable origin manipulation mode press:
-
-```
-!control + .
-`
-and then move the pivot location. Once you have finished, press control + . again
+To enable origin manipulation mode press: **Control + .** and then move the pivot location. Once you have finished, press **control + .** again
