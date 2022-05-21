@@ -1,2 +1,0 @@
-# microsingularity.github.io
-Website
