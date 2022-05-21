@@ -14,17 +14,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title: My Awesome Site
+title: microSingularity
 email:
-description:
+description: The Official Website of the microSingularity Youtube Channel
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
   name:
   twitter:
   picture:
-twitter_username:
-github_username:
+twitter_username: mu_singularity
+github_username: microSingularity
 logo: # path of site logo, e.g. "/assets/images/logo.png"
 search: # true, false (default)
 search_full_content: false # true, false (default)
