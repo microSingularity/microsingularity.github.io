@@ -1,3 +1,3 @@
 source "https://rubygems.org"
-gem "jekyll-theme-basically-basic"
+#gem "jekyll-theme-basically-basic"
 gemspec
