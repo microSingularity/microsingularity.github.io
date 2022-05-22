@@ -1,4 +1,3 @@
-
 ---
 title: How to Run Blender on Google Colab with a Free GPU
 image: 

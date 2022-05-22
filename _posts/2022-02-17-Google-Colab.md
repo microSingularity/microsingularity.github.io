@@ -1,4 +1,3 @@
-
 ---
 title: "Blender and Google Colab"
 image: 
@@ -6,10 +5,6 @@ image:
   thumbnail: /assets/images/GoogleBlenderPost.png
   caption: "Google Colab and Blender"
 ---
-
-
-
-
 
 Since starting my Youtube channel, a little over a year ago, I've published a lot of tutorials on the topic of speeding up Blender renders with Google Colab. It can be a bit confusing which tutorial covers what subject so I'm going to give a quick summary of each tutorial here.
 
