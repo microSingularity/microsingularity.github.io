@@ -1,6 +1,9 @@
 ---
-title: Post Archive
-layout: posts
+title: Posts
+layout: collection
 permalink: /posts/
-entries_layout: list
+collection: posts
+entries_layout: grid
 ---
+
+Sample document listing for the collection `_recipes`.
