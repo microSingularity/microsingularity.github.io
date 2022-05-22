@@ -20,8 +20,8 @@ description: Blending Science
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
-  name:
-  twitter:
+  name: Michael Douglass
+  twitter: mu_singularity
   picture:
 twitter_username: mu_singularity
 github_username: microSingularity
@@ -47,7 +47,7 @@ feed:
   path: atom.xml
 
 # Pagination - https://jekyllrb.com/docs/pagination/
-paginate: 10
+paginate: 2
 paginate_path: /page:num/
 
 # Exclude from processing.
@@ -76,7 +76,7 @@ exclude:
 
 # Front Matter Defaults
 defaults:
-  # _posts
+   _posts
   - scope:
       path: "_posts"
       type: posts
