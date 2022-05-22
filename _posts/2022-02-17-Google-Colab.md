@@ -1,15 +1,15 @@
+
 ---
-title: Blender and Google Colab
-layout: post
-post-image: "/assets/images/GoogleBlenderPost.png"
-description: A summary of my Google Colab and Blender Tutorials
-tags:
-- google
-- colab
-- blender
-- render
-- cloud
+title: "Blender and Google Colab"
+image: 
+  path: /assets/images/chocolate-chip-cookies-lg.jpg
+  thumbnail: /assets/images/chocolate-chip-cookies-400x200.jpg
+  caption: "Photo from [Pexels](https://www.pexels.com)"
 ---
+
+
+
+
 
 Since starting my Youtube channel, a little over a year ago, I've published a lot of tutorials on the topic of speeding up Blender renders with Google Colab. It can be a bit confusing which tutorial covers what subject so I'm going to give a quick summary of each tutorial here.
 
