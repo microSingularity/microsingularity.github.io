@@ -37,11 +37,11 @@ drive.mount('/content/drive')
 
 If you need to use another version of Blender, go to the [Blender website here](https://download.blender.org/release/). Choose the folder of the version you want to download
 
-![List of all Blender Releases](/assets/BlenderVersions.png)
+![List of all Blender Releases](/assets/images/BlenderVersions.png)
 
 Then make sure you find the linux version, and then right click and copy link. This link can then be copied into the code below (if you don't want to use the Blender 3.0 release)
 
-![List of all Blender Releases](/assets/Blender3.png)
+![List of all Blender Releases](/assets/images/Blender3.png)
 
 This line of code dowloads Blender from the official Blender website and saves it in your working directory of Google Colab (not google drive)
 
@@ -97,7 +97,7 @@ os.environ["LD_PRELOAD"] = "/usr/lib/x86_64-linux-gnu/libtcmalloc_minimal.so.4.3
 Before uploading your Blender scene to Google Colab, make sure you have configured all the render settings. For example, set the number of samples and resolution before uploading.
 If you are using any HDRIs or textures in your Blender scene, be sure to package them into the Blender file.
 
-![Package Textures](/assets/ExternalData.png)
+![Package Textures](/assets/images/ExternalData.png)
 
 Then upload the Blender scene to Google Drive to a folder of your choice. Then copy the path to the Blender scene (.blend file) into the line of code below. Here, my Blender file is in the root Google Drive directory.
 ```
