@@ -1,9 +1,13 @@
 ---
 title: "Blender and Google Colab"
-image: 
-  path: /assets/images/GoogleBlenderPost.png
-  thumbnail: /assets/images/GoogleBlenderPost.png
-  caption: "Google Colab and Blender"
+categories:
+  - Blender
+tags:
+  - blender
+  - google colab
+  - gpu
+  - free
+last_modified_at: 2022-05-22T14:49:00-00:00
 ---
 
 Since starting my Youtube channel, a little over a year ago, I've published a lot of tutorials on the topic of speeding up Blender renders with Google Colab. It can be a bit confusing which tutorial covers what subject so I'm going to give a quick summary of each tutorial here.
