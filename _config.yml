@@ -45,7 +45,7 @@ plugins: # previsously gems
   - jekyll-paginate
 feed:
   path: atom.xml
-
+google_analytics: G-5KHBFDBHP9
 # Pagination - https://jekyllrb.com/docs/pagination/
 paginate: 2
 paginate_path: /page:num/
@@ -87,5 +87,5 @@ defaults:
       path: "articles"
       type: articles
     values:
-      layout: post
+      layout: collection
       read_time: true
