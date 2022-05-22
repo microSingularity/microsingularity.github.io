@@ -76,16 +76,16 @@ exclude:
 
 # Collections
 collections:
-  articles:
+  recipes:
     output: true
     permalink: /:collection/:path/
 
 # Front Matter Defaults
 defaults:
-  # _recipes
+  # _posts
   - scope:
       path: "articles"
-      type: articles
+      type: posts
     values:
-      layout: collection
+      layout: posts
       read_time: true
