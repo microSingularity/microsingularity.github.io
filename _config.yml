@@ -47,7 +47,7 @@ feed:
   path: atom.xml
 google_analytics: G-5KHBFDBHP9
 # Pagination - https://jekyllrb.com/docs/pagination/
-paginate: 10
+paginate: 2
 paginate_path: /page:num/
 
 # Exclude from processing.
@@ -74,11 +74,17 @@ exclude:
   - /docs # ignore Basically Basic sample site
   - /example # ignore Basically Basic dev site
 
+# Collections
+collections:
+  recipes:
+    output: true
+    permalink: /:collection/:path/
+
 # Front Matter Defaults
 defaults:
   # _posts
   - scope:
-      path: "_articles"
+      path: "_posts"
       type: posts
     values:
       layout: post
