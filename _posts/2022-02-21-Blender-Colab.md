@@ -1,17 +1,13 @@
+
 ---
 title: How to Run Blender on Google Colab with a Free GPU
-layout: post
-post-image: "/assets/images/GoogleBlenderPost.png"
-description: A set of instructions for running your Blender scenes on Google Colab with a free GPU
-tags:
-- google
-- colab
-- blender
-- render
-- cloud
-- free
-- GPU
+image: 
+  path: /assets/images/GoogleBlenderPost.png
+  thumbnail: /assets/images/GoogleBlenderPost.png
+  caption: "Google Colab and Blender"
 ---
+
+
 
 This is a more comprehensive set of instructions on how to render your Blender scenes on Google Colab. All of these tutorials can be found on my [Youtube Page here](https://www.youtube.com/c/MicroSingularity) with the playlist to all Colab tutorials [here](https://youtube.com/playlist?list=PLV0Zsi5ZYUasqIKTYo7et4iJuaSIArSy5). If you would like a more detailed explanation about each tutorial before watching, I have a blog post [here](https://microsingularity.github.io/blog/Google-Colab) summarising each video.
 The notebook files for this code can be [found here](https://github.com/microSingularity/blenderGoogleGPU)
