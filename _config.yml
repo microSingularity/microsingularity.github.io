@@ -26,8 +26,8 @@ author:
 twitter_username: mu_singularity
 github_username: microSingularity
 logo: assets/icons/Logo.svg # path of site logo, e.g. "/assets/images/logo.png"
-search: # true, false (default)
-search_full_content: false # true, false (default)
+search: true # true, false (default)
+search_full_content: true # true, false (default)
 search_provider: # lunr (default), algolia
 algolia:
   application_id: # YOUR_APPLICATION_ID
@@ -74,9 +74,15 @@ exclude:
   - /docs # ignore Basically Basic sample site
   - /example # ignore Basically Basic dev site
 
+  # Collections
+collections:
+  posts:
+    output: true
+    permalink: /:collection/:path/
+
 # Front Matter Defaults
 defaults:
-   _posts
+  # _posts
   - scope:
       path: "_posts"
       type: posts
