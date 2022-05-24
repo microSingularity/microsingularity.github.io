@@ -4,7 +4,8 @@ layout: collection
 permalink: /articles/
 collection: articles
 entries_layout: list
-sort_order: reverse
+sort_by: date # date (default) title
+sort_order: forward # forward (default), reverse
 ---
 
 A collection of Blender related articles.
