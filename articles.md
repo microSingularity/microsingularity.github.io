@@ -1,6 +1,6 @@
 ---
 title: Articles
-layout: posts
+layout: collection
 permalink: /articles/
 collection: articles
 entries_layout: list
