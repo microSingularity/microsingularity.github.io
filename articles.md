@@ -1,9 +1,8 @@
 ---
 title: Articles
-layout: collection
+layout: posts
 permalink: /articles/
-collection: articles
-entries_layout: grid
+entries_layout: list
 ---
 
 A collection of Blender related articles.
