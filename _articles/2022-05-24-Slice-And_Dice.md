@@ -1,5 +1,6 @@
 ---
 title: "Slice and Dice Add-On for Blender Update"
+excerpt_separator: "<!--more-->"
 categories:
   - Blender
   - Add-Ons
@@ -11,6 +12,8 @@ last_modified_at: 2022-05-24T20:37:00-00:00
 ---
 
 Version 1.1 of the [Slice and Dice](https://blendermarket.com/products/slice-and-dice) add-on has been released on Blender Market. This addon now includes support for Italian and Spanish languages in Blender as well as now supporting Blender version 3.0.
+
+<!--more-->
 
 If you haven't seen or used the add-on yet, I encourage you to check-out the trailer here:
 
